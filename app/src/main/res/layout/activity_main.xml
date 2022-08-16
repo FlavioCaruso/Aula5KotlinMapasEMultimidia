@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="40dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:onClick="acessarRecuperacaoFotos"
+        android:text="Recuperando fotos com ImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="acessarMapas"
+        android:text="Utilizando mapas: MapView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="acessarLocation"
+        android:text="Localização do usuário com Location API"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="acessarRotas"
+        android:text="Rotas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="acessarPontos"
+        android:text="Pontos Interesse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="usandoWebView"
+        android:text="Usando WebView em seus Apps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="acessarSons"
+        android:text="Sons: AudioManager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="acessarVideo"
+        android:text="Vídeos: MediaPlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+    <Button
+        android:onClick="acessarAnimacao"
+        android:text="Animação em views com View Animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:gravity="left"
+        />
+
+</LinearLayout>
