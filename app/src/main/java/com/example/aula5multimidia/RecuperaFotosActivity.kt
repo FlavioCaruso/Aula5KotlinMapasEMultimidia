@@ -38,8 +38,8 @@ class RecuperaFotosActivity : AppCompatActivity() {
         textView6.text = animais[5]
 
         //armazenando o link das imagens nas variaveis
-        var i1 = "https://st.depositphotos.com/1020341/4233/i/450/depositphotos_42333899-stock-photo-portrait-of-huge-beautiful-male.jpg"
-        var i2 = "https://www.vivernatural.com.br/wp-content/uploads/2018/04/%D0%9F%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD-%D1%84%D0%BE%D1%82%D0%BE-min.jpg"
+        var i1 = "https://t2.tudocdn.net/579992?w=646&h=284"
+        var i2 = "https://thumbs.dreamstime.com/b/penguin-yellow-beak-snow-background-penguin-blue-light-214423908.jpg"
         var i3 = "https://media.moneytimes.com.br/uploads/2019/12/1-107.jpg"
         var i4 = "https://d5y9g7a5.rocketcdn.me/wp-content/uploads/2020/04/girafa-caracteristicas-e-comportamento-da-especie-1.jpg"
         var i5 = "https://static.todamateria.com.br/upload/ti/gr/tigredebengala-cke.jpg?auto_optimize=low"
